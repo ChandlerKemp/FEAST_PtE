@@ -1,4 +1,10 @@
 =====
+FEAST has moved!!
+=====
+
+For the latest version of FEAST with active support, checkout https://github.com/FEAST-SEDLab/FEAST_PtE
+
+=====
 FEAST v3.0
 =====
 
